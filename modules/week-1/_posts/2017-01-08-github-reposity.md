@@ -18,7 +18,7 @@ module: 1
 
 <p><a href="//www.youtube.com/embed/jmwObsKJ3A4" data-lity>Issues Forum and Notifications Video</a></p>
 
-<p>This class is heavily utilizing <a href="https://github.com" target="_new">GitHub.com</a>. Not only is this service where you will host your git repo's and live websites, but this content site lives in GitHub, and there is a "resources" repo for this site that contains:</p>
+<p>This class is heavily utilizing <a href="https://github.com" target="_blank">GitHub.com</a>. Not only is this service where you will host your git repo's and live websites, but this content site lives in GitHub, and there is a "resources" repo for this site that contains:</p>
 <ul>
 <li>code examples for this course</li>
 <li>and an issue forum where you can ask each other for help.</li>
@@ -33,7 +33,7 @@ module: 1
 
 <p>To watch the course repo:</p>
 <ol>
-    <li>Navigate to <a href="https://github.com/Montana-Media-Arts/120_CreativeCoding1-Fall2021-Samples/" target="_new">Examples Website</a>. The issues forum for this site also links to the "Issues-Forum" tab above in the navbar.</li>
+    <li>Navigate to <a href="https://github.com/Montana-Media-Arts/120_CreativeCoding1-Spring2022-Samples/" target="_blank">Examples Website</a>. The issues forum for this site also links to the "Issues-Forum" tab above in the navbar.</li>
     <li>In the upper right-hand corner, you should select both "watching" and "star".</li>
     <li>The star and watching allow GitHub to email you about notifications and issues in the course repo.</li>
     <li>When you have problems, please post them in the issues area.</li>
@@ -45,7 +45,7 @@ module: 1
 </div>
 
 <div id="Issues" class="tabcontent">
-<P>To create or respond to an issue, open the repo <a href="https://github.com/Montana-Media-Arts/120_CreativeCoding1-Fall2021-Samples/issues" target="_new">"Issues Forum"</a>.</p>
+<P>To create or respond to an issue, open the repo <a href="https://github.com/Montana-Media-Arts/120_CreativeCoding1-Spring2022-Samples/issues" target="_blank">"Issues Forum"</a>.</p>
 
 <p>There you can search open issues to try and:</p>
 <ul>
@@ -67,7 +67,7 @@ module: 1
 
 <p>You want to create your repository if you don't have one. </p>
 <ol>
-<li>Go to <a href="https://github.com" target="_new">GitHub</a></li>
+<li>Go to <a href="https://github.com" target="_blank">GitHub</a></li>
 <li>Create an account by clicking Sign up for GitHub.</li>
 <li>View your repositories.</li>
 </ol>
@@ -86,7 +86,7 @@ module: 1
 <p>GitHub Desktop is a graphical interface to make a copy of your repository on your computer.  Then, you can make changes to your work and then quickly post it back to your repository.  Or if you heaven forbid something happens to your computer [trust me, it happens], then you have a backup.</p>
 
 <ol>
-<li>Go to <a href="https://desktop.github.com/" target="_new">GitHub Desktop</a></li>
+<li>Go to <a href="https://desktop.github.com/" target="_blank">GitHub Desktop</a></li>
 <li>Download your version and install it.</li>
 <li>Go to your repository and click on the <b>Code</b> button.</li>
 <li>Click on <b>Open with GitHub Desktop</b>.</li>

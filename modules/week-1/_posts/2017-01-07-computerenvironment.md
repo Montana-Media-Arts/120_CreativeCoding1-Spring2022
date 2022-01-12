@@ -73,7 +73,7 @@ module: 1
 
 <p>Although such programs can appear intimidating to a beginner user, these command-line programs remove are simple applications that allow for full control of the OS. These programs will enable a user to accomplish many of that same tasks that they are used to completing with a mouse through text-only commands. One reason to use such a program is to speed up the development process and display more information than is typical of a traditional "graphical user interface" (GUI; pronounced 'gooey') based environment.</p>
 
-<p>One advantage of a CLI over a GUI-based file browser is quicker manipulation of files and directories. The manipulation of files and directories will be a widespread activity for you in this course. As such, please take a moment to read the following <a href="https://en.wikipedia.org/wiki/Directory_(computing)" target="_new">Wikipedia page describing 'directories'</a> and make sure you understand what a directory is, as well as its related terminology.</p>
+<p>One advantage of a CLI over a GUI-based file browser is quicker manipulation of files and directories. The manipulation of files and directories will be a widespread activity for you in this course. As such, please take a moment to read the following <a href="https://en.wikipedia.org/wiki/Directory_(computing)" target="_blank">Wikipedia page describing 'directories'</a> and make sure you understand what a directory is, as well as its related terminology.</p>
 </div>
 
 <div id="Learning" class="tabcontent">
@@ -83,7 +83,7 @@ module: 1
 
 <p>For those of you who are unfamiliar with using the terminal in Unix operating systems, you should work through the following book.</p>
 
-<p><a href="https://lab46.g7n.org/_media/haas/ufbm.pdf" target="_new">Unix for the Beginning Mage</a></p>
+<p><a href="https://lab46.g7n.org/_media/haas/ufbm.pdf" target="_blank">Unix for the Beginning Mage</a></p>
 
 <p>This resource walks you through the basics of using terminal via a 'cutesy' story. (Sorry if this is not your thing. Unfortunately, it is an excellent resource.)</p>
 
@@ -98,7 +98,7 @@ module: 1
 <li>Windows now include a "Linux Environment" in the Windows Features.
    <ul>
     <li>To install the Window's approved "Windows Subsystem for Linux", please follow the instructions from the following site;</li>
-    <li><a href="https://docs.microsoft.com/en-us/windows/wsl/install-win10" target="_new">https://docs.microsoft.com/en-us/windows/wsl/install-win10</a></li>
+    <li><a href="https://docs.microsoft.com/en-us/windows/wsl/install-win10" target="_blank">https://docs.microsoft.com/en-us/windows/wsl/install-win10</a></li>
     </ul>
 </li>
 <li><p>A more straightforward solution (and the recommended one for this course), is to install a Bash-like CLI.</p>
@@ -107,7 +107,7 @@ module: 1
 </ol>
 <p>To get a Bash environment, windows users should install Git. Download Git below:</p>
 
-<p><a href="https://git-scm.com/download/win" target="_new">https://git-scm.com/download/win</a></p>
+<p><a href="https://git-scm.com/download/win" target="_blank">https://git-scm.com/download/win</a></p>
 
 <p>After downloading the program, right-click the install executable and select "Run as Administrator." (<strong>THIS IS IMPORTANT</strong> You must run as administrator to give Git Bash necessary permissions.)</p>
 
@@ -117,7 +117,7 @@ module: 1
 
 <p><img src="../imgs/Screen2.png" alt="Git Bash" /></p>
 
-<p>After installing either "Windows Subsystem for Linux" or "Git Bash", you should work through the <a href="https://lab46.g7n.org/_media/haas/ufbm.pdf" target="_new">Unix for the Beginning Mage</a> book.</p>
+<p>After installing either "Windows Subsystem for Linux" or "Git Bash", you should work through the <a href="https://lab46.g7n.org/_media/haas/ufbm.pdf" target="_blank">Unix for the Beginning Mage</a> book.</p>
 
 </div>
 
