@@ -22,6 +22,6 @@ module: 2
 
 <p>If you are interested in more from Randy Pausch, the following link has a myriad of resources.</p>
 
-<p><a href="http://www.cs.virginia.edu/~robins/Randy/" target="_new">Link to Randy Pausch's Resources</a></p>
+<p><a href="http://www.cs.virginia.edu/~robins/Randy/" target="_blank">Link to Randy Pausch's Resources</a></p>
 
 </div>
