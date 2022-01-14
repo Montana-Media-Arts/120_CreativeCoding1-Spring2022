@@ -41,7 +41,7 @@ module: 1
 
 <p>We care because we want to organize our folders/directories and the files within them so that we can find them again. Yes, we have a search bar that helps us, but it's much better to store our files in an organized way.</p>
 
-<P>How do we access our folders?</p>
+<p>How do we access our folders?</p>
 <ol>
 <li>In Windows, you can click on the <b>Start</b> or <b>Search</b> and then look for <b>This PC.</b></li>
 <li>On Mac, click on <b>Finder</b> and then go through the folders.</li>
