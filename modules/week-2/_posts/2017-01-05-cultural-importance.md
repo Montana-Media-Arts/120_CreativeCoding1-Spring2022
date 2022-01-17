@@ -15,8 +15,7 @@ module: 2
 
 As we think about learning, it's important to think about how our culture influences each of us in this journey.
 
-Watch this <a href="//youtu.be/uXY_SxO7d0M" data-lity>video</a> to gain a perspective from an indigenous student and educator.
-
+Watch this <a href="//youtu.be/uXY_SxO7d0M" data-lity>video</a> entitled An Indigenous Student’s Perspective: History, Culture, and Language by Amidooli Pacheco to gain a perspective from an indigenous student and educator.
 
 </div>
 
