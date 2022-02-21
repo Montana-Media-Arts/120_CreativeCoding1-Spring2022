@@ -29,7 +29,7 @@ jotted: false
 <li>End CSS declarations with a semicolon</li>
 <li>Surround declaration blocks by curly braces</li>
 </ol>
-<p><i>source - <a href="http://w3schools.com" target="_new">w3schools.com</a></i></p>
+<p><i>source - <a href="http://w3schools.com" target="_blank">w3schools.com</a></i></p>
 </div>
 <div id="Example" class="tabcontent">
 

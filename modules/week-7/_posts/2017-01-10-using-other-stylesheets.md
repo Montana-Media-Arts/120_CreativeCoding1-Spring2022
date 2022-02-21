@@ -66,12 +66,12 @@ jotted: true
 <p>In the case of Bootstrap, you first go to:</p>
 
 <ol>
-<li>Go to <a href="https://getbootstrap.com/" target="_new">Get Bootstrap</a></li>
+<li>Go to <a href="https://getbootstrap.com/" target="_blank">Get Bootstrap</a></li>
 <li>Then, click on <b>Download</b>.</li>
 <li>Under <b>Compiled CSS and JS</b>, click <b>Download</b>.</li>
 <li>Download the zip file.</li>
 <li>Unzip and save the folder in a directory near your web page file.</li>
-<li>Download JQuery from: <a href="https://jquery.com/" target="_new">Get jQuery</a></li>
+<li>Download JQuery from: <a href="https://jquery.com/" target="_blank">Get jQuery</a></li>
 <li>Then, click on <b>Download jQuery</b>.</li>
 <li>Right-click <b>Download the compressed, production jQuery 3.x.x</b> and save the file in your <b>js</b> folder with Bootstrap.</li>
 <li>Reference bootstrap like this (if your folder structure is set up like the following).</li>
@@ -108,7 +108,7 @@ jotted: true
 
 </div>
 <div id="ToDo" class="tabcontent">
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="mdwYOPO" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+<p class="codepen" data-height="600" data-default-tab="html,result" data-slug-hash="mdwYOPO" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/mdwYOPO">
   Bootstrap Example</a> by Michael Cassens (<a href="https://codepen.io/retrog4m3r">@retrog4m3r</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>

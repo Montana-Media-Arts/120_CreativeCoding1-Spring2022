@@ -20,8 +20,8 @@ Another resource is Code Academy.
 
 ### Code Academy on HTML and CSS
 
-<a href="https://www.codecademy.com/learn/learn-css" target="_new">Learn CSS at Code Academy</a>
+<a href="https://www.codecademy.com/learn/learn-css" target="_blank">Learn CSS at Code Academy</a>
 
 ### W3Schools.com on CSS
 
-<a href="https://www.w3schools.com/w3css/" target="_new">Learn CSS at w3schools.com</a>
+<a href="https://www.w3schools.com/w3css/" target="_blank">Learn CSS at w3schools.com</a>
