@@ -10,6 +10,7 @@ jotted: true
     <button class="tablinks active" onclick="openTab(event, 'Web')">Web Editor</button>
     <button class="tablinks" onclick="openTab(event, 'CDN')">CDN</button>
     <button class="tablinks" onclick="openTab(event, 'Offline')">Offline</button>
+     <button class="tablinks" onclick="openTab(event, 'Video')">Video</button>
 </div>
 <!-- Tab content -->
 <div id="Web" class="tabcontent" style="display:block">
@@ -107,6 +108,14 @@ You have a couple of options, but if you right-click and download the p5.js or p
 ```
 
 Where do we go from here? Now that we have our initial set up done, we can focus on the setup and the draw.
+
+</div>
+</div>
+
+<div id="Video" class="tabcontent">
+<div class="tabhtml" markdown="1">
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/waAYzO6wojQ" frameborder="0" allowfullscreen></iframe></div>
 
 </div>
 </div>

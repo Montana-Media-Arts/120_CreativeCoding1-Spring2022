@@ -16,6 +16,7 @@ Drawing simple shapes is the first thing that p5.js allows us to do quickly.  Th
     <button class="tablinks" onclick="openTab(event, 'Triangle')">Triangle</button>
     <button class="tablinks" onclick="openTab(event, 'Point')">Point</button>
     <button class="tablinks" onclick="openTab(event, 'Line')">Line</button>
+     <button class="tablinks" onclick="openTab(event, 'Video')">Video</button>
     <button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>
     
 </div>
@@ -167,6 +168,15 @@ This example places the first point on the line at x-coordinate 30 and y-coordin
 
 </div>
 </div>
+
+<div id="Video" class="tabcontent">
+<div class="tabhtml" markdown="1">
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/qTZAw_TFNkY" frameborder="0" allowfullscreen></iframe></div>
+
+</div>
+</div>
+
 <div id="ToDo" class="tabcontent">
 <div class="tabhtml" markdown="1">
 

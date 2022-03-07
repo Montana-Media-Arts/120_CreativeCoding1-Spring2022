@@ -12,6 +12,7 @@ These are the two main functions in p5.js.  They are the most critical functions
     <button class="tablinks active" onclick="openTab(event, 'Setup')">Setup</button>
     <button class="tablinks" onclick="openTab(event, 'Draw')">Draw</button>
     <button class="tablinks" onclick="openTab(event, 'FinalPage')">Final HTML Page</button>
+     <button class="tablinks" onclick="openTab(event, 'Video')">Video</button>
     <button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>
 </div>
 <!-- Tab content -->
@@ -151,6 +152,13 @@ Just remember the directory structure might look like this:
 
 </div>
 </div>
+<div id="Video" class="tabcontent">
+<div class="tabhtml" markdown="1">
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/985etrz6zX4" frameborder="0" allowfullscreen></iframe></div>
+
+</div>
+</div>
 <div id="ToDo" class="tabcontent">
 <div class="tabhtml" markdown="1">
 
@@ -159,3 +167,4 @@ Make changes to the set up and draw in the editor.
 <iframe src="https://editor.p5js.org/" width="100%" height="800px"></iframe>
 </div>
 </div>
+
