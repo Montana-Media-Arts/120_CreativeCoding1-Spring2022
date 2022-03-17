@@ -23,7 +23,7 @@ jotted: false
 So, what is the Math function that we used before?  Random right?  When we wanted a random number, it looked like this.
 
 ```js
-    number1 = Math.floor(Math.random() * 10);
+    number1 = floor(random() * 10);
 ```
 </div>
 </div>
@@ -36,7 +36,7 @@ Remember, the Math.random() returns a number between 0 inclusive and 1 exclusive
 For example, if you have the following.
 
 ```js
-    console.log(Math.floor(3.03));
+    console.log(floor(3.03));
 ```
 
 You will see 3.
@@ -44,7 +44,7 @@ You will see 3.
 If you have the following.
 
 ```js
-    console.log(Math.floor(3.94));
+    console.log(floor(3.94));
 ```
 
 You will also see 3.
@@ -115,7 +115,7 @@ var movement;
 function setup()
 {
     createCanvas(800,600);
-    movement = Math.floor(Math.random() * 10);
+    movement = floor(random() * 10);
 }
 /* this function is called continuously
     while the sketch is open in the browser
@@ -161,7 +161,7 @@ var movement;
 function setup()
 {
     createCanvas(800,600);
-    movement = Math.floor(Math.random() * 10) + 1;
+    movement = floor(random() * 10) + 1;
 }
 /* this function is called continuously
     while the sketch is open in the browser
