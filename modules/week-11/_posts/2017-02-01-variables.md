@@ -14,6 +14,7 @@ jotted: true
     <button class="tablinks" onclick="openTab(event, 'Scope')">Variable Scope</button>
     <button class="tablinks" onclick="openTab(event, 'Type')">Variable Types</button>
     <button class="tablinks" onclick="openTab(event, 'Final')">Final Result</button>
+      <button class="tablinks" onclick="openTab(event, 'Video')">Video</button>
     <button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>
 </div>
 <!-- Tab content -->
@@ -207,7 +208,13 @@ Did you see something change?  Cool huh?  Let's continue.
 
 </div>
 </div>
+<div id="Video" class="tabcontent">
 
+<div class="tabhtml" markdown="1">
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/slL9LVJH9Es" frameborder="0" allowfullscreen></iframe></div>
+</div>
+</div>
 <div id="ToDo" class="tabcontent">
 
 <p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="js,result" data-slug-hash="gOxGGmR" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">

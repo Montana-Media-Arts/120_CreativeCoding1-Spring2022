@@ -12,6 +12,7 @@ jotted: true
     <button class="tablinks" onclick="openTab(event, 'Step2')">Step 2</button>
     <button class="tablinks" onclick="openTab(event, 'Step3')">Step 3</button>
     <button class="tablinks" onclick="openTab(event, 'Step4')">Step 4</button>
+      <button class="tablinks" onclick="openTab(event, 'Video')">Video</button>
     <button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>
 </div>
 <!-- Tab content -->
@@ -223,6 +224,13 @@ function draw()
 
 ```
 Now it works.  Whew!
+</div>
+</div>
+<div id="Video" class="tabcontent">
+
+<div class="tabhtml" markdown="1">
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/sWsHMGZ9Udg" frameborder="0" allowfullscreen></iframe></div>
 </div>
 </div>
 <div id="ToDo" class="tabcontent">

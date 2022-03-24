@@ -11,6 +11,7 @@ jotted: true
     <button class="tablinks" onclick="openTab(event, 'Step1')">Step 1</button>
     <button class="tablinks" onclick="openTab(event, 'Step2')">Step 2</button>
     <button class="tablinks" onclick="openTab(event, 'Step3')">Step 3</button>
+      <button class="tablinks" onclick="openTab(event, 'Video')">Video</button>
     <button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>
 </div>
 <!-- Tab content -->
@@ -171,7 +172,13 @@ The circles should go back and forth forever.  If you want only the edge of the 
 What math functions are out there that we can use?  Continue and find out!
 </div>
 </div>
+<div id="Video" class="tabcontent">
 
+<div class="tabhtml" markdown="1">
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/EuKB0GW3uPA" frameborder="0" allowfullscreen></iframe></div>
+</div>
+</div>
 <div id="ToDo" class="tabcontent">
 <p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="js,result" data-slug-hash="xxLXXPG" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/xxLXXPG">

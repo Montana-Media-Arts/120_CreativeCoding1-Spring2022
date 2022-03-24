@@ -12,6 +12,7 @@ jotted: false
     <button class="tablinks" onclick="openTab(event, 'Example')">Example with Random</button>
     <button class="tablinks" onclick="openTab(event, 'Speed')">Random Speed</button>
     <button class="tablinks" onclick="openTab(event, 'Reference')">Reference</button>
+      <button class="tablinks" onclick="openTab(event, 'Video')">Video</button>
     <button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>
    
 </div>
@@ -197,7 +198,13 @@ There are so many more math functions at your disposal in p5.js.  Here is the li
 With that, let's talk about homework for this week.
 </div>
 </div>
+<div id="Video" class="tabcontent">
 
+<div class="tabhtml" markdown="1">
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/rG3Ad5Lp7as" frameborder="0" allowfullscreen></iframe></div>
+</div>
+</div>
 <div id="ToDo" class="tabcontent">
 <p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="js,result" data-slug-hash="LYjzzeN" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/retrog4m3r/pen/LYjzzeN">
