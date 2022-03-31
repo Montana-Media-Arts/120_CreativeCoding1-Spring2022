@@ -12,6 +12,7 @@ jotted: false
     <button class="tablinks" onclick="openTab(event, 'IfExample')">if Example</button>
     <button class="tablinks" onclick="openTab(event, 'IfElseExample')">if/else Example</button>
     <button class="tablinks" onclick="openTab(event, 'IfElseIfExample')">if/else if Example</button>
+     <button class="tablinks" onclick="openTab(event, 'Video')">Video</button>
      <button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>
 </div>
 <!-- Tab content -->
@@ -459,6 +460,13 @@ Now, did you see a change?  What happened?  Did it get to the third else if? How
 
 To make it work the way we want, we must change a couple of things.  Go to the next section to find out.
 
+</div>
+</div>
+<div id="Video" class="tabcontent">
+
+<div class="tabhtml" markdown="1">
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/drW6an-q51w" frameborder="0" allowfullscreen></iframe></div>
 </div>
 </div>
 <div id="ToDo" class="tabcontent">

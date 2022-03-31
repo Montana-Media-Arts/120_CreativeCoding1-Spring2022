@@ -11,6 +11,7 @@ jotted: false
     <button class="tablinks" onclick="openTab(event, 'AND')">AND</button>
     <button class="tablinks" onclick="openTab(event, 'OR')">OR</button>
     <button class="tablinks" onclick="openTab(event, 'NOT')">NOT</button>
+     <button class="tablinks" onclick="openTab(event, 'Video')">Video</button>
        <button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>
 
 </div>
@@ -304,6 +305,13 @@ So, what about NOT?  How does this fit in this scenario?
 
 All we changed in this scenario is the last else if and as long x,y, or diameter isn't equal to their respective number, then the variable resets.
 
+</div>
+</div>
+<div id="Video" class="tabcontent">
+
+<div class="tabhtml" markdown="1">
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/bEsZJXSfq7U" frameborder="0" allowfullscreen></iframe></div>
 </div>
 </div>
 <div id="ToDo" class="tabcontent">

@@ -11,6 +11,7 @@ jotted: false
     <button class="tablinks" onclick="openTab(event, 'KeyPressed')">keyPressed</button>
     <button class="tablinks" onclick="openTab(event, 'KeyIsDown')">keyIsDown</button>
     <button class="tablinks" onclick="openTab(event, 'Example')">Example</button>
+     <button class="tablinks" onclick="openTab(event, 'Video')">Video</button>
        <button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>
 
 </div>
@@ -240,6 +241,13 @@ Now, we are moving the object left and right while going up and down with the WA
 
 What else can we do?  Let's look at mouse events.
 
+</div>
+</div>
+<div id="Video" class="tabcontent">
+
+<div class="tabhtml" markdown="1">
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/kJyiKMFIKPI" frameborder="0" allowfullscreen></iframe></div>
 </div>
 </div>
 <div id="ToDo" class="tabcontent">

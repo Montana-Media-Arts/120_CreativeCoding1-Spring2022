@@ -10,6 +10,7 @@ jotted: false
     <button class="tablinks active" onclick="openTab(event, 'Overview')">Overview</button>
     <button class="tablinks" onclick="openTab(event, 'Setup')">Setup</button>
     <button class="tablinks" onclick="openTab(event, 'Movement')">Movement</button>
+     <button class="tablinks" onclick="openTab(event, 'Video')">Video</button>
     <button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>
 
 </div>
@@ -96,6 +97,14 @@ Hopefully, you also found out that if you change x and y and diameter at the sam
 
 Fun! Where do we go from here? Let's talk about the conditions.  What are those? If, if/else, and if/else if statements.  We have seen the first two, but maybe not the third one. We will look at those.
 
+</div>
+</div>
+
+<div id="Video" class="tabcontent">
+
+<div class="tabhtml" markdown="1">
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nTtrvVHO3U0" frameborder="0" allowfullscreen></iframe></div>
 </div>
 </div>
 
