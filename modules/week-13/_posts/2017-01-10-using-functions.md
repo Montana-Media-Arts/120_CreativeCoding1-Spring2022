@@ -137,7 +137,7 @@ However, if one sends in different x and y, then a second concentric circle is d
 
 What if I wanted to create random circles in random locations? Can you do that?
 
-**Hint** use Math.random() to get move the location of the circles.
+**Hint** use random() to get move the location of the circles.
 
 </div>
 </div>
