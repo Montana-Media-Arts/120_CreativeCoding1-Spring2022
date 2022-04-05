@@ -30,7 +30,7 @@ Or imagine the short Hello message you sometimes see in online software applicat
 
 It is possible to build entire software applications with only functions. Programming languages which primarily use functions are called functional programming languages. Haskell and a few other languages are primarily functional languages. You build software by building blocks of code that perform specific tasks.
 
-<em><a href="https://www.kidscodecs.com/programming-functions/" target="_new">Source</a></em>
+<em><a href="https://www.kidscodecs.com/programming-functions/" target="_blank">Source</a></em>
 </div>
 </div>
 
