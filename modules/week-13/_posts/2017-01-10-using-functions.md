@@ -19,8 +19,8 @@ jotted: true
 
 Recall that **setup** and **draw** are built-in functions and are called by p5.js without the programmer having the explicitly call the function.  What are some other built-in functions in p5.js?
 
-* Math.floor(number)
-* Math.random()
+* floor(number)
+* random()
 * isKeyDown(keycode)
 * circle(x,y,diameter)
 * square(x,y,side)
