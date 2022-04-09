@@ -9,6 +9,7 @@ jotted: false
     <button class="tablinks" onclick="openTab(event, 'Example1')">Example w/o Function</button>
     <button class="tablinks" onclick="openTab(event, 'Example2')">Example w/ Parameters</button>
     <button class="tablinks" onclick="openTab(event, 'Example3')">Example reuse variables</button>
+      <button class="tablinks" onclick="openTab(event, 'Video')">Video</button>
     <button class="tablinks" onclick="openTab(event, 'ToDo')">To Do</button>
 
 </div>
@@ -157,7 +158,13 @@ Now, the call the calculateSum function performs more actions which we no longer
 
 </div>
 </div>
+<div id="Video" class="tabcontent">
 
+<div class="tabhtml" markdown="1">
+
+<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/w75XsRucwpA" frameborder="0" allowfullscreen></iframe></div>
+</div>
+</div>
 <div id="ToDo" class="tabcontent" >
 <div class="tabhtml" markdown="1">
 <p class="codepen" data-height="600" data-theme-id="dark" data-default-tab="js,result" data-slug-hash="MWvPMgN" data-editable="true" data-user="retrog4m3r" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
